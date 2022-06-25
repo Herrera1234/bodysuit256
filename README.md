@@ -26,7 +26,7 @@ Instala los archivos necesarios
 
 Clona este repositorio
  ```bash
-> git clone https://github.com/thechoute/Baby-Ofc
+> git clone https://github.com/Herrera1234/bodysuit256
 ```
 
 Inicia la instalacion
