@@ -31,7 +31,7 @@ Clona este repositorio
 
 Inicia la instalacion
 ```bash
-- cd Baby-Ofc
+- cd bodysuit256
 - bash install.sh
 ```
 
